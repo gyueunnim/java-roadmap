@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="997859fb-a86f-475c-a412-dc43f8660337" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-roadmap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/CommentJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/HelloJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/HelloJava2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/array/Array1Ref1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/array/Array1Ref2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/array/Array1Ref3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/array/Array1Ref4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/array/ArrayDi0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/array/ArrayDi1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/array/ArrayDi2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/array/ArrayDi3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/array/EnhancedFor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/array/ex/ArrayEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/array/ex/ArrayEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/array/ex/ArrayEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/cond/ex/CondOpEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/cond/ex/DistanceEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/cond/ex/EvenOddEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/cond/ex/ExchangeRateEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/cond/ex/GradeSwitchEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/cond/ex/MoveRateEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/cond/ex/ScoreEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/loop/ex/NestedEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/loop/ex/NestedEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/loop/ex/WhileEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/loop/ex/WhileEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/loop/ex/WhileEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/operator/ex/OperationEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/operator/ex/OperationEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/operator/ex/OperationEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/ChangeVarEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/ScannerEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/ScannerEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/ScannerEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/ScannerEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/ScannerEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/ScannerWhileEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/ScannerWhileEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/ScannerWhileEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/ScannerWhileEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/variable/Var1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/variable/Var2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/variable/Var3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/variable/Var4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/variable/Var5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/variable/Var6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/variable/Var7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/variable/Var8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/variable/ex/VarEx1Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/variable/ex/VarEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/variable/ex/VarEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_start/scanner/ex/Scanner1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/Scanner1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2eONKGWcRSiuyNXrmNPmtoX4U07" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/jang-gyueun/Desktop/java-roadmap/src/java_start",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/java_start" />
+      <recent name="$PROJECT_DIR$/src/java_start/cond/ex" />
+      <recent name="$PROJECT_DIR$/src/java_start/loop/ex" />
+      <recent name="$PROJECT_DIR$/src/java_start/scanner/ex" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-53826d6a" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="997859fb-a86f-475c-a412-dc43f8660337" name="Changes" comment="" />
+      <created>1711771598906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711771598906</updated>
+      <workItem from="1711771599894" duration="474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
