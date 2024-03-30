@@ -5,65 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="997859fb-a86f-475c-a412-dc43f8660337" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-roadmap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/CommentJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/HelloJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/HelloJava2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/array/Array1Ref1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/array/Array1Ref2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/array/Array1Ref3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/array/Array1Ref4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/array/ArrayDi0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/array/ArrayDi1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/array/ArrayDi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/array/ArrayDi3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/array/EnhancedFor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/array/ex/ArrayEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/array/ex/ArrayEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/array/ex/ArrayEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/cond/ex/CondOpEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/cond/ex/DistanceEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/cond/ex/EvenOddEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/cond/ex/ExchangeRateEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/cond/ex/GradeSwitchEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/cond/ex/MoveRateEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/cond/ex/ScoreEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/loop/ex/NestedEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/loop/ex/NestedEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/loop/ex/WhileEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/loop/ex/WhileEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/loop/ex/WhileEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/operator/ex/OperationEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/operator/ex/OperationEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/operator/ex/OperationEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/ChangeVarEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/ScannerEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/ScannerEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/ScannerEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/ScannerEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/ScannerEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/ScannerWhileEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/ScannerWhileEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/ScannerWhileEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/ScannerWhileEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/variable/Var1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/variable/Var2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/variable/Var3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/variable/Var4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/variable/Var5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/variable/Var6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/variable/Var7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/variable/Var8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/variable/ex/VarEx1Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/variable/ex/VarEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/variable/ex/VarEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_start/scanner/ex/Scanner1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_start/scanner/ex/Scanner1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -129,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711771598906</updated>
-      <workItem from="1711771599894" duration="474000" />
+      <workItem from="1711771599894" duration="1086000" />
     </task>
     <servers />
   </component>
