@@ -1,6 +1,6 @@
 package java_basic.access.b;
 
-import access.a.AccessData;
+import java_basic.access.a.AccessData;
 
 public class AccessOuterMain {
     public static void main(String[] args) {

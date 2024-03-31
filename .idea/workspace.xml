@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="997859fb-a86f-475c-a412-dc43f8660337" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_basic/access/b/AccessOuterMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_basic/access/b/AccessOuterMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_basic/access/b/PublicClassOuterMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_basic/access/b/PublicClassOuterMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +28,9 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2eONKGWcRSiuyNXrmNPmtoX4U07" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,10 +39,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ProductOrderMain3.executor": "Run",
+    "Application.PublicClassOuterMain.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/jang-gyueun/Desktop/java-roadmap/src/java_start",
+    "last_opened_file_path": "/Users/jang-gyueun/Desktop/java-roadmap/src/java_basic/ref",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,10 +55,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/java_basic/ref" />
+      <recent name="$PROJECT_DIR$/src/java_basic/class1" />
+      <recent name="$PROJECT_DIR$/src/java_basic" />
       <recent name="$PROJECT_DIR$/src/java_start" />
       <recent name="$PROJECT_DIR$/src/java_start/cond/ex" />
-      <recent name="$PROJECT_DIR$/src/java_start/loop/ex" />
-      <recent name="$PROJECT_DIR$/src/java_start/scanner/ex" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -72,7 +77,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711771598906</updated>
-      <workItem from="1711771599894" duration="1086000" />
+      <workItem from="1711771599894" duration="1541000" />
+      <workItem from="1711848039338" duration="1515000" />
     </task>
     <servers />
   </component>
