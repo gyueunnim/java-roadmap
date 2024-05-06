@@ -1,0 +1,26 @@
+package java_mid.lang.math;
+
+import java.util.Random;
+
+// Random 클래스를 사용하면 더 다양한 랜덤값을 구현할 수 있다
+public class RandomMain {
+    public static void main(String[] args) {
+        Random random = new Random();
+//        Random random = new Random(1); // seed가 같으면 Random의 결과가 같다.
+
+        int randomInt = random.nextInt();
+        System.out.println("randomInt: " + randomInt);
+
+        double randomDouble = random.nextDouble();
+        System.out.println("randomDouble: " + randomDouble);
+
+        boolean randomBoolean = random.nextBoolean();
+        System.out.println("randomBoolean: " + randomBoolean);
+
+        int randomRange1 = random.nextInt(10); // 0 ~ 9까지 출력
+        System.out.println("0 ~ 9: " + randomRange1);
+
+        int randomRange2 = random.nextInt(10) + 1; // 1 ~ 10까지 출력
+        System.out.println("1 ~ 10: " + randomRange2);
+    }
+}
