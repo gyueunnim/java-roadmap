@@ -12,7 +12,7 @@ public class TestZone {
         ZonedDateTime nyTime = seoulTime.withZoneSameInstant(ZoneId.of("America/New_York"));
 
         System.out.println("서울의 회의 시간: " + seoulTime);
-        System.out.println("런던의 회의 시간: " + londonTime);
+        System.out.println("런던`의 회의 시간: " + londonTime);
         System.out.println("뉴욕의 회의 시간: " + nyTime);
     }
 }
